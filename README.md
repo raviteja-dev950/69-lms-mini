@@ -493,6 +493,3 @@ AWS DevOps + Docker – ₹3999 – Intermediate – 30 Hours – Deploy Spring 
 Python + AI Mastery – ₹3499 – Beginner – 35 Hours – Python for AI (Added via Instructor UI)
 
 Google Cloud Computing Foundations – ₹3499 – Beginner – 40 Hours – Cloud (Added via Instructor UI)
-
-
-
