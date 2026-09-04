@@ -319,9 +319,9 @@ Important: With mem + create, data wiped on restart – User not found after res
 
 ## 📸 Screenshots – LearnSphere Real App
 
-### 1. Auth STUDENT – Create Account – STUDENT
+### 1. STUDENT – Create Account – STUDENT
 
-![Auth Student](screenshots/demo1.png)
+![Student](screenshots/demo1.png)
 
 ---
 
@@ -369,37 +369,37 @@ Important: With mem + create, data wiped on restart – User not found after res
 
 ### 9. Instructor Login 
 
-![Add Course Modal](screenshots/demo9.png)
+![Instructor login](screenshots/demo9.png)
 
 ---
 
-### 10. 
+### 10. Instructor Dashboard
 
-![Add Course Fail](screenshots/demo10.png)
+![Instructor Dashboard](screenshots/demo10.png)
 
 ---
 
-### 11. 5 Courses After Add – Python + Google Cloud – Violet + Add Course Button
+### 11. Adding Course By the Instructor
 
 ![5 Courses After Add](screenshots/demo11.png)
 
 ---
 
-### 12. API /api/courses JSON – 5 Courses
+### 12. Adding One more Course By the Instructor
 
 ![API Courses](screenshots/demo12.png)
 
 ---
 
-### 13. API /api/enrollments JSON – Enrollments with User and Course
+### 13. API /api/courses
 
-![API Enrollments](screenshots/demo13.png)
+![API Courses](screenshots/demo13.png)
 
 ---
 
 ### 14. My Learning Progress – Black Card – Gradient Bar
 
-![My Learning Progress](screenshots/demo14.png)
+![API Enrollments](screenshots/demo14.png)
 
 ---
 
