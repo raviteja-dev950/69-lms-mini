@@ -361,19 +361,19 @@ Important: With mem + create, data wiped on restart – User not found after res
 
 ---
 
-### 8. Search Java – Live Search
+### 8. Instructor Account Creation
 
 ![Search Java](screenshots/demo8.png)
 
 ---
 
-### 9. Add Course Modal – Instructor Only – 8 Fields
+### 9. Instructor Login 
 
 ![Add Course Modal](screenshots/demo9.png)
 
 ---
 
-### 10. Add Course Fail – Long base64 URL – Fixed to 2000 length + Unsplash
+### 10. 
 
 ![Add Course Fail](screenshots/demo10.png)
 
