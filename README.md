@@ -435,7 +435,7 @@ Important: With mem + create, data wiped on restart – User not found after res
 
 ## 👨‍💻 Author
 
-### Ravi Teja – Vemula Leela Venkata Ravi Teja
+### Vemula Leela Venkata Ravi Teja
 
 Java Full Stack Developer
 
